@@ -1,8 +1,9 @@
 # Bootstrap Basics and Classes Code Repository
-
+<p align="center">
+  <img src="https://source.unsplash.com/random/?coding,java-program" alt="C Logo" width="400" height="400">
+</p>
 Welcome to the **Bootstrap Basics and Classes Code Repository**! This repository is your go-to resource for learning and mastering the fundamental concepts and classes of Bootstrap, a powerful front-end framework for building responsive and visually appealing web applications.
 
-![Bootstrap Logo](https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg)
 
 ## Table of Contents
 
