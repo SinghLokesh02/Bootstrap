@@ -1,8 +1,9 @@
 # Bootstrap Basics and Classes Code Repository
-
+<p align="center">
+  <img src="https://source.unsplash.com/random/?coding,java-program" alt="C Logo" width="400" height="400">
+</p>
 Welcome to the **Bootstrap Basics and Classes Code Repository**! This repository is your go-to resource for learning and mastering the fundamental concepts and classes of Bootstrap, a powerful front-end framework for building responsive and visually appealing web applications.
 
-![Bootstrap Logo](https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg)
 
 ## Table of Contents
 
@@ -24,12 +25,12 @@ To get started with Bootstrap, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/bootstrap-basics.git
+   git clone git@github.com:SinghLokesh02/Bootstrap.git
    ```
 
 2. Navigate to the repository directory:
    ```
-   cd bootstrap-basics
+[cd bootstrap-basics](https://github.com/SinghLokesh02/Bootstrap)
    ```
 
 3. Open the `index.html` file in your preferred web browser to explore the basic concepts and classes covered in this repository.
